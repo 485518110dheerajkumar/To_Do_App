@@ -34,8 +34,11 @@ When the app starts, it loads tasks from this file, so your data is safe even af
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/todo-desktop-app.git
-cd todo-desktop-app
+git clone https://github.com/485518110dheerajkumar/To_Do_App.git
+// unzip the folder then.
+cd NotesMaker
+npm install nodemon
+npm start
 
 -----
 
